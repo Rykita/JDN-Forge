@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "jnether_expansion:soul_slate"
+  },
+  "result": "jnether_expansion:soul_slate_brick_pillar",
+  "count": 1
+}

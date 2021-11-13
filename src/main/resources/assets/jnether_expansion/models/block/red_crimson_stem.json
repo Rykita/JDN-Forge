@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "jnether_expansion:block/red_crimson_stem",
+    "side": "jnether_expansion:block/red_crimson_stem_side"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jnether_expansion:soul_slate_brick_pillar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jnether_expansion:ender_warped_stem"
+    }
+  ],
+  "result": {
+    "item": "jnether_expansion:ender_warped_planks",
+    "count": 4
+  }
+}

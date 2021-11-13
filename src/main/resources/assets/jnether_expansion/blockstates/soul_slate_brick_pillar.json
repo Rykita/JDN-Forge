@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "axis=y":  { "model": "jnether_expansion:block/soulslate/soul_slate_brick_pillar" },
+    "axis=z":   { "model": "jnether_expansion:block/soulslate/soul_slate_brick_pillar", "x": 90 },
+    "axis=x":   { "model": "jnether_expansion:block/soulslate/soul_slate_brick_pillar", "x": 90, "y": 90 },
+    "axis=none": { "model": "jnether_expansion:block/soulslate/soul_slate_brick_pillar" }
+  }
+}

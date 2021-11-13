@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jnether_expansion:red_crimson_stem"
+    }
+  ],
+  "result": {
+    "item": "jnether_expansion:red_crimson_planks",
+    "count": 4
+  }
+}
